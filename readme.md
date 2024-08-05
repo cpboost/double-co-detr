@@ -2,7 +2,7 @@
 # 代码说明
 
 ## 项目背景
-- 2024GAIIC-无人机视角下的双光目标检测，我们获得此次挑战的冠军，[比赛链接](https://www.heywhale.com/org/2024gaiic/competition/area/65f7abcf019d8282037f3924/content/4)
+- 2024GAIIC-无人机视角下的双光目标检测，我们获得此次挑战的冠军，
 
 ## 目录结构
 ```
@@ -40,7 +40,7 @@ project
 - 我们训练仅使用了官方提供的contest_data数据集，共有1.7w张训练图片，1.4k张验证图片，官方测试集为1000张图片。
 
 ## 预训练模型
-- 仅使用了Co-DETR作者开源的ViT预训练权重，下载地址：https://drive.google.com/drive/folders/1-vAVIHHJ6Gyw0E6mGdbjdZ1hjkEdo3Rt
+- 仅使用了Co-DETR作者开源的ViT预训练权重，[下载地址](https://drive.google.com/drive/folders/1-vAVIHHJ6Gyw0E6mGdbjdZ1hjkEdo3Rt)
 
 ## 算法
 
