@@ -1,7 +1,4 @@
-
-# Code Description
-
-
+# Competition Description
 ## Introduction to the GAIIC
 Global Artificial Intelligence Innovation Competition (GAIIC) is organised by the Chinese Society for Artificial Intelligence and Hangzhou Municipal People's Government. The competition is based on an international perspective, focuses on cutting-edge technology and application innovation, promotes academic exchanges, talent cultivation, technological development, and cross-border application and fusion in the field of AI, and creates a platform for the exchange of talents and an industrial ecosystem for AI.
 
@@ -13,8 +10,12 @@ The past competitions have brought together big names in the academic field, and
 
 ![image](https://github.com/user-attachments/assets/86417b1c-8c97-4da0-a6b1-c9521ff93715)
 
-## Project Background
-- 2024GAIIC - Dual Spectrum Object Detection from Drone Perspectives. We won the championship in a competition with over 1200 teams and more than 8200 submissions
+## Our work 
+We won the championship in a competition with over 1200 teams and more than 8200 submissions.
+On the A leaderboard, we ranked second, while on the B leaderboard, we secured first place. Moreover, we were the only team among all the finalists that did not lose any points on the B leaderboard, demonstrating the strong generalization and accuracy of our approach.
+
+# Code Description
+
 ## Directory Structure
 ```
 project
