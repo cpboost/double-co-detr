@@ -2,7 +2,7 @@
 # Code Description
 
 
-## Introduction to the Competition
+## Introduction to the GAIIC
 Global Artificial Intelligence Innovation Competition (GAIIC) is organised by the Chinese Society for Artificial Intelligence and Hangzhou Municipal People's Government. The competition is based on an international perspective, focuses on cutting-edge technology and application innovation, promotes academic exchanges, talent cultivation, technological development, and cross-border application and fusion in the field of AI, and creates a platform for the exchange of talents and an industrial ecosystem for AI.
 
 
