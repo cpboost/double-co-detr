@@ -1,6 +1,14 @@
 
 # Code Description
 
+
+## Introduction to the Competition
+Global Artificial Intelligence Innovation Competition (GAIIC) is organised by the Chinese Society for Artificial Intelligence and Hangzhou Municipal People's Government. The competition is based on an international perspective, focuses on cutting-edge technology and application innovation, promotes academic exchanges, talent cultivation, technological development, and cross-border application and fusion in the field of AI, and creates a platform for the exchange of talents and an industrial ecosystem for AI.
+The competition has been successfully held for three times so far, and has attracted nearly 20,000 teams from universities, famous enterprises and research institutions at home and abroad to participate in the competition, which has gradually grown into one of the influential activities in the field of artificial intelligence.
+The past competitions have brought together big names in the academic field, and the guiding guests of the competition include Dai Qionghai, Counsellor of the State Council, Chairman of CAAI, Academician of the Chinese Academy of Engineering, Dean of the School of Information Technology of Tsinghua University, and CAAI Fellow; Chen Jie, Vice Chairman of CAAI, Academician of the Chinese Academy of Engineering and CAAI Fellow; Wang Endong, Vice Chairman of CAAI, Academician of the Chinese Academy of Engineering, Chief Scientist of Wave Group and CAAI Fellow; and Wang Jie, Vice Chairman of CAAI. Fellow Wang Endong, CAAI Vice President, Academician of Chinese Academy of Engineering, Director of National Agricultural Informatisation Engineering and Technology Research Centre, CAAI Fellow Zhao Chunjiang, CAAI Supervisor, Academician of Chinese Academy of Engineering, Professor of Hunan University, CAAI Fellow Wang Yaonan, Foreign Academician of the European Academy of Sciences, Executive Vice President of the Institute of Artificial Intelligence of Tsinghua University, CAAI Fellow, Sun Maosong, CAAI Vice President, Foreign Academician of the European Academy of Sciences, Dean of the School of Artificial Intelligence of Nanjing University, CAAI Fellow, Zhou Zhihua.
+
+![image](https://github.com/user-attachments/assets/86417b1c-8c97-4da0-a6b1-c9521ff93715)
+
 ## Project Background
 - 2024GAIIC - Dual Spectrum Object Detection from Drone Perspectives. We won the championship in a competition with over 1200 teams and more than 8200 submissions
 ## Directory Structure
