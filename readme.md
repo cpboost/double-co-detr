@@ -95,9 +95,8 @@ contest_data
 - bash train.sh
 
 ## Testing Process
-- download 通过百度网盘分享的文件：gaiic
-链接：https://pan.baidu.com/s/16mhszMDoZ17IuRgmwgx2cA?pwd=1111 
-提取码：1111 
+- download test data and our weights：gaiic link：https://pan.baidu.com/s/16mhszMDoZ17IuRgmwgx2cA?pwd=1111 
+password：1111 
 - bash test.sh
 
 ## Results Description
