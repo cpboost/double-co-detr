@@ -8,7 +8,7 @@ The competition has been successfully held for three times so far, and has attra
 
 The past competitions have brought together big names in the academic field, and the guiding guests of the competition include Dai Qionghai, Counsellor of the State Council, Chairman of CAAI, Academician of the Chinese Academy of Engineering, Dean of the School of Information Technology of Tsinghua University, and CAAI Fellow; Chen Jie, Vice Chairman of CAAI, Academician of the Chinese Academy of Engineering and CAAI Fellow; Wang Endong, Vice Chairman of CAAI, Academician of the Chinese Academy of Engineering, Chief Scientist of Wave Group and CAAI Fellow; and Wang Jie, Vice Chairman of CAAI. Fellow Wang Endong, CAAI Vice President, Academician of Chinese Academy of Engineering, Director of National Agricultural Informatisation Engineering and Technology Research Centre, CAAI Fellow Zhao Chunjiang, CAAI Supervisor, Academician of Chinese Academy of Engineering, Professor of Hunan University, CAAI Fellow Wang Yaonan, Foreign Academician of the European Academy of Sciences, Executive Vice President of the Institute of Artificial Intelligence of Tsinghua University, CAAI Fellow, Sun Maosong, CAAI Vice President, Foreign Academician of the European Academy of Sciences, Dean of the School of Artificial Intelligence of Nanjing University, CAAI Fellow, Zhou Zhihua.
 
-![image](https://github.com/user-attachments/assets/86417b1c-8c97-4da0-a6b1-c9521ff93715)
+!
 
 ## Our work 
 We won the championship in a competition with over 1200 teams and more than 8200 submissions.
