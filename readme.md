@@ -53,7 +53,7 @@ project
 - We only used the official contest_data dataset for training, with a total of 17k training images, 1.4k validation images, and 1k test images.
 
 ## Pretrained Models
-- We only used the official contest_data dataset for training, with a total of 17k training images, 1.4k validation images, and 1k test images.，[下载地址](https://drive.google.com/drive/folders/1-vAVIHHJ6Gyw0E6mGdbjdZ1hjkEdo3Rt)
+- We only used the official contest_data dataset for training, with a total of 17k training images, 1.4k validation images, and 1k test images.，
 
 ## Algorithm
 
